@@ -2,3 +2,4 @@ second file added
 
 from git desktop - remote user1 -additional line code added
 github user added some code
+to check git fetch cmd
